@@ -1,0 +1,5 @@
+
+
+message DataMessage{
+	int payload;
+}
